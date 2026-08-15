@@ -12,6 +12,10 @@ let students = [
     {
         name: "Ali",
         grades: [40, 55, 45]
+    },
+    {
+    name: "Hassan",
+    grades: [95, 88, 92]
     }
 ];
 
